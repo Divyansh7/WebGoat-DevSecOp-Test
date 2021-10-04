@@ -22,5 +22,5 @@ steps:
   inputs:
     AppSecTestService: 'HCL App scan'
     applications: 'aaf86991-c807-4ca2-a50f-fabddbfb7395'
-    scanname: 'Web Goat HCL Scan SAST'
+    scanname: 'Second Scan WebGoat'
     scantype: 'static'
